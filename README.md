@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [CGAA.org](https://www.cgaa.org)
 
-- 🌱 I’m currently learning **Search Engine Optimization (SEO)**
+- 🌱 I’m currently learning **Search Engine Optimization**
 
 - 👨‍💻 All of my projects are available at [www.helmersson.se](https://www.helmersson.se)
 
