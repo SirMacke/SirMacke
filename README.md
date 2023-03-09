@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [www.helmersson.se](https://www.helmersson.se)
 
-- 💬 Ask me about **Nuxt, MongoDB, Automation**
+- 💬 Ask me about **Nuxt, MongoDB, Ezoic**
 
 - 📫 How to reach me **max.helmersson@gmail.com**
 
-- ⚡ Fun fact **FPV Drones are Super Fun to Fly!**
+- ⚡ Also interested in **FPV Drones**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
