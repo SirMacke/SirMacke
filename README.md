@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirmacke&label=Profile%20views&color=5e8c31&style=flat" alt="sirmacke" /> </p>
 
-- 🔭 I’m currently working at [W3 Software AB](https://www.w3-software.com)
+- 🔭 I’m currently working on [W3 Software](https://www.w3-software.com) & [W3 Commerce](https://www.w3-commerce.com)
 
 - 💡 Experienced with **Nuxt, MongoDB, Web Automation**
 
